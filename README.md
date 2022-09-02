@@ -1,6 +1,6 @@
 ## Olá, eu sou o *Prof. Raul*
 
-Meu *email* de contato é rjunior@escola.pr.gov.br
+Meu *email* de contato é [email](rjunior@escola.pr.gov.br)
 
 Faço parte do GE **"Formações em Ação"**
 
